@@ -17,7 +17,6 @@ tags:
 <ul class="post-list">
 {%- for post in tag[1] -%}
 {% if post.parent_page == "we-notice" %}
-{% if post.lang == site.active_lang %}
 <li>
 {%- assign date_format = site.minima.date_format | default: "%m/%d/%Y" -%}
 <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -30,7 +29,6 @@ tags:
 {{ post.excerpt }}
 {%- endif -%}
 </li>
-{% endif %}
 {% endif %}
 {%- endfor -%}
 </ul>
