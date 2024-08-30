@@ -7,7 +7,7 @@ permalink: /about/
 
 # Nice to see you here! We are Ko-Station.
 
-**Ko-Station** a knowmad community established in 2022 in Rotterdam by four Ukrainians living in The Netherlands. We are united by our collective experiences, common values, and a shared mission.
+**Ko-Station** is a knowmad community established in 2022 in Rotterdam by four Ukrainians living in The Netherlands. We are united by our collective experiences, common values, and a shared mission.
 
 We are eager to share experiences through meaningful discussions and the creation of new ideas. Here members are safe to mention any topics on meet-ups and deliver creative thoughts at any time. Our main goal is sharing knowledge and multiplying thoughts and actions connected to it.
 
@@ -27,4 +27,4 @@ We are eager to share experiences through meaningful discussions and the creatio
 
 This community is changing simultaneously with its members. We are ready for your feedback and notions because knowmads thrive on adaptability and innovation. 
 
-Let's co-create a space where everyone's voice shapes our collective journey!
+## Let's co-create a space where everyone's voice shapes our collective journey!
