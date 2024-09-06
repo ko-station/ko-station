@@ -6,6 +6,34 @@
   
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #d9d9d9;
+}
+
+.logo-container {
+  flex-shrink: 0; /* Ensures the logo doesn't shrink when resizing */
+}
+
+.site-logo {
+  max-height: 60px; /* Adjust this value based on how tall you want the logo */
+}
+.site-logo:hover {
+  background-color: #ffc844;;
+}
+
+a {
+  color: #424242;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #424242;
+}
+
+a:hover {
+  color: #111;
+  text-decoration: none;
+  font-style: italic;
+  background-color: #ffc844;
 }
 
 nav ul {

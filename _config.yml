@@ -9,6 +9,10 @@ name: Ko-Station
 email: ko.station.community@gmail.com
 description: knowmad community
 baseurl: "" # the subpath of your site, e.g. /blog
+# Social links
+linkedin_username: ko-station
+instagram_username: ko_station
+youtube_username: ko_station
 
 # Build settings
 theme: minima
@@ -21,8 +25,10 @@ destination: docs/
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: true
 
+
 include:
   - _pages
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
