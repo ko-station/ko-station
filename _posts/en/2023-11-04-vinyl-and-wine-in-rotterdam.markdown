@@ -2,7 +2,7 @@
 layout: post
 title:  '"Vinyl and Wine" gathering in Rotterdam'
 date:   2023-11-04 00:00:00 +0100
-
+image: "assets/images/2023-11-04/img_002.png"
 tags: 
  - Public Events
 ---

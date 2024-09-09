@@ -23,7 +23,7 @@ We are eager to share experiences through meaningful discussions and the creatio
 
 3. **Podcast. “Ukraine 101”**
 
-    This podcast is in progress, but it is also a nice form of sharing ideas and experiences. Here, you can. But it is also a nice form of sharing ideas and experience. Here you would be able to listen to more sincere and unfamiliar information about Ukraine from Ukrainians. 
+    This podcast is in progress. But it is also a nice form of sharing ideas and experience. Here you would be able to listen to more sincere and unfamiliar information about Ukraine from Ukrainians. 
 
 This community is changing simultaneously with its members. We are ready for your feedback and notions because knowmads thrive on adaptability and innovation. 
 
