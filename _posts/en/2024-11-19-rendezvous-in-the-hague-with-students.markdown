@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rendezvous in Rotterdam: How it was."
+title:  "Rendezvous with students in The Hague"
 date:   2024-11-19 00:00:00 +0100
 image: "/assets/images/2024-11-19/1.png"
 tags:

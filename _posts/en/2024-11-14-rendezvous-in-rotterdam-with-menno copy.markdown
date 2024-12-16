@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rendezvous in The Hague with students"
+title:  "Rendezvous with Menno in Rotterdam"
 date:   2024-11-14 00:00:00 +0100
 image: "/assets/images/2024-11-29/20241114_202123_img.jpg"
 tags:
